@@ -18,7 +18,7 @@ We can look at bike rentals by gender. As shown in this graphic a higher percent
 
 Next we look at how long bikes are being checked out. When is illustrated in this graphic. A clear spike can be seen.
 
-![CheckoutTimes] (https://github.com/ethomas33/bikesharing/blob/f3b91971dc709d88333a32a39e1b3a9823c0744e/Images/Checkout-Times-line.PNG)
+![CheckoutTimes](https://github.com/ethomas33/bikesharing/blob/f3b91971dc709d88333a32a39e1b3a9823c0744e/Images/Checkout-Times-line.PNG)
 
 
 We can then look at the combination of the previous two graphics to not only look at trip duration but see how this fits within the framework of which gender is renting the bikes.
