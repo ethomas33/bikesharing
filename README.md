@@ -2,6 +2,11 @@
 ## Overview:
 The purpose of this analysis was to analysis CitiBike sharing data for New York City. We looked at how gender, time of day, and age influence how the ride share service usage ebbs and flows. 
 
+Tableau dashboards can be explored in the following links.
+
+https://public.tableau.com/views/citibike-tripdata-Challenge/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/NYCCitiBike_16507347704950/NYCCitiBike?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 ## Results:
 The following charts show how clear patterns arise with how and what type of users are using this service.     
